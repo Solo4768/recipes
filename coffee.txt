@@ -1,0 +1,5 @@
+Add water to coffee maker
+Add coffee to coffee maker
+Press to "brew" button
+Wait...
+Done
